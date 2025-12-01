@@ -1,0 +1,5 @@
+com\example\bh\StartupRunner.class
+com\example\bh\dto\GenerateWebhookRequest.class
+com\example\bh\BhQualifierApplication.class
+com\example\bh\dto\GenerateWebhookResponse.class
+com\example\bh\dto\SubmitRequest.class
